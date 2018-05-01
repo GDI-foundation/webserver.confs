@@ -1,6 +1,6 @@
 # webserver.confs
 
-This is how we have installed and configured Nging using Let’s Encrypt to get an A+ 100% score on SSL Labs
+This is how we have installed and configured Nginx using Let’s Encrypt to get an A+ 100% score on SSL Labs
 and which HTTP headers we have added to our default website deployment to score an A+ on securityheaders.com
 
 Deploying on a Debian 9 Stretch serve
